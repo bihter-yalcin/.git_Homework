@@ -1,1 +1,2 @@
 1- Folder Git repoya eklendi.
+2- Master'e 2. Commit eklendi.
