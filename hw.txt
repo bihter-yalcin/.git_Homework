@@ -1,3 +1,4 @@
 1- Folder Git repoya eklendi.
 2- Master'e 2. Commit eklendi.
 3- dev branch'i oluşturuldu.
+4- dev'e 1. Commit eklendi.
