@@ -4,3 +4,4 @@
 4- dev'e 1. Commit eklendi.
 5- feature branch'i oluşturuldu.
 6- feature branch'i commit oluşturuldu.
+7- feature branch'i reverseledim.
