@@ -2,6 +2,9 @@
 2- Master'e 2. Commit eklendi.
 3- dev branch'i oluşturuldu.
 4- dev'e 1. Commit eklendi.
+<<<<<<< HEAD
 5- feature branch'i oluşturuldu.
 6- feature branch'i commit oluşturuldu.
 7- feature branch'i reverseledim.
+=======
+>>>>>>> d5f3f0a53697f93a56b38f8ad7c0066ec0eedd15
