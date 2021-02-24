@@ -2,3 +2,5 @@
 2- Master'e 2. Commit eklendi.
 3- dev branch'i oluşturuldu.
 4- dev'e 1. Commit eklendi.
+5- feature branch'i oluşturuldu.
+6- feature branch'i commit oluşturuldu.
